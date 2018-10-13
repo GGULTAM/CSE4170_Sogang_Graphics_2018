@@ -1,0 +1,31 @@
+﻿  4.9.Our_House_V_0.5_main.cpp
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(72): warning C4101: 'filename' :참조되지 않은 지역 변수입니다.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(71): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(102): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(119): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(148): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(226): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(248): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(270): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(291): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(467): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(540): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(546): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\object_definitions.h(555): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+c:\users\gms04\desktop\그래픽스\그래픽스_예제_프로그램\4.9.our_house_v_0.5\4.9.our_house_v_0.5\4.9.our_house_v_0.5_main.cpp(555): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  4.9.Our_House_V_0.5.vcxproj -> C:\Users\gms04\Desktop\그래픽스\그래픽스_예제_프로그램\4.9.Our_House_V_0.5\x64\Debug\4.9.Our_House_V_0.5.exe
